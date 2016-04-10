@@ -1,0 +1,28 @@
+name: paulyoung
+favicon: null
+layout_spectrum: 0.9225604333914816
+typography_spectrum: 0.5295531081501395
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8783156408462673
+  lightness: 0.09584598685614765
+  saturation: 0.2450397596694529
+  rhythmicContrast: 0.8385624228976667
+purpose: []
